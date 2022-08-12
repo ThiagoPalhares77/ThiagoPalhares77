@@ -28,5 +28,5 @@
     </a>
 </div>
   
-<br/>
+
 ![Snake animation](https://github.com/ThiagoPalhares77/ThiagoPalhares77/blob/output/github-contribution-grid-snake.svg)

@@ -11,9 +11,11 @@
     <h1 align="center">Melhores Tecnologias </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="30" alt="ts-icon" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="30" alt="ts-icon" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png">
+    
    </div>
    
    <h1 align="center">Redes Sociais</h1>
